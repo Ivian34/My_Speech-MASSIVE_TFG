@@ -1,0 +1,202 @@
+Estel, pots deixar el tríptic a l’àrea 3, just a la dreta de l’entrada principal?	place_object	player:Estel	location_x:3	location_y:a	object:tríptic
+Quan hagis acabat la inspecció, Roger, recull el passaport que hi ha a l’àrea 1, a dalt del taulell blanc?	take_object	player:Roger	location_x:1	location_y:b	object:passaport
+Seria possible que la Marta diposités el mapa urbà a l’àrea 4, immediatament a l’esquerra de la finestra gran?	place_object	player:Marta	location_x:4	location_y:c	object:mapa urbà
+Pau, abans de marxar, podries agafar el bolígraf que està a la plataforma 2, sota l’equip de so?	take_object	player:Pau	location_x:2	location_y:d	object:bolígraf
+Carles, no t’oblidis de deixar el llibre antic a l’àrea 5, a la dreta del panell informatiu.	place_object	player:Carles	location_x:5	location_y:a	object:llibre antic
+Clara, recull la maleta que descansa a la zona 3, just sota la taula verda.	take_object	player:Clara	location_x:3	location_y:d	object:maleta
+Xavier, assegura’t de situar la càmera a l’àrea 2, a l’esquerra de la finestra lateral.	place_object	player:Xavier	location_x:2	location_y:c	object:càmera
+Eva, abans que comenci la sessió, has de recollir la targeta a la zona 6, a dalt del marc metàl·lic?	take_object	player:Eva	location_x:6	location_y:b	object:targeta
+Quan tornis de la reunió, Sílvia, deixa la rèplica de l’estatueta a l’àrea 7, just a la dreta de l’estand principal.	place_object	player:Sílvia	location_x:7	location_y:a	object:rèplica de l’estatueta
+Arnau, no oblidis agafar el manual de l’àrea 8, situat a sota de la llum central.	take_object	player:Arnau	location_x:8	location_y:d	object:manual
+La Laia hauria de dipositar la maqueta naval a l’àrea 1, immediatament a l’esquerra de l’estanteria gran, no creus?	place_object	player:Laia	location_x:1	location_y:c	object:maqueta naval
+Sergi, què tal si reculls la caixa de música de l’àrea 4, just damunt del suport de vidre?	take_object	player:Sergi	location_x:4	location_y:b	object:caixa de música
+Seria oportú que en Marc col·loqués el conjunt fotogràfic a l’àrea 2, a dalt del panell metàl·lic.	place_object	player:Marc	location_x:2	location_y:b	object:conjunt fotogràfic
+Gemma, abans de sortir, agafa el passaport del taulell 3, a sota del monitor gris.	take_object	player:Gemma	location_x:3	location_y:d	object:passaport
+Carme, cal que deixis les roses a l’àrea 5, exactament a la dreta de la vitrina de fusta?	place_object	player:Carme	location_x:5	location_y:a	object:roses
+Jordi, quan hagis revisat tots els documents, recull el plànol que descansa a la zona 1, a la dreta de la porta lateral.	take_object	player:Jordi	location_x:1	location_y:a	object:plànol
+Núria, no t’oblidis de dipositar la peça de ceràmica a l’àrea 6, immediatament a l’esquerra de la porta principal.	place_object	player:Núria	location_x:6	location_y:c	object:peça de ceràmica
+Ona, prefereixes recollir la figura de fusta de l’àrea 7, situada sota la vitrina de vidre?	take_object	player:Ona	location_x:7	location_y:d	object:figura de fusta
+Ivan, tan aviat com puguis, col·loca el dron a l’àrea 3, a la dreta de la pantalla tàctil.	place_object	player:Ivan	location_x:3	location_y:a	object:dron
+Una vegada finalitzada la inspecció, Àlex, pots recollir el passaport de l’àrea 2, just a la dreta del panell informatiu?	take_object	player:Àlex	location_x:2	location_y:a	object:passaport
+Abans de tancar l’auditori, podries, Laura, dipositar el dossier a l’àrea 5, a la dreta de la taula principal?	place_object	player:Laura	location_x:5	location_y:a	object:dossier
+Un cop hagis signat els plans, podràs, Ana, recollir el plànol de l’àrea 2, a dalt del prestatge central?	take_object	player:Ana	location_x:2	location_y:b	object:plànol
+Per favor, col·loca el tríptic a l’àrea 3, Carla, just a l’esquerra de la porta principal.	place_object	player:Carla	location_x:3	location_y:c	object:tríptic
+Quan examinis el manual, podries, Marc, agafar-lo de l’àrea 1, a sota de la làmpada?	take_object	player:Marc	location_x:1	location_y:d	object:manual
+Abans que comenci la reunió, situa la càmera a l’àrea 4, Xavier, a la dreta del suport de vidre.	place_object	player:Xavier	location_x:4	location_y:a	object:càmera
+Després de l’exposició, podries, Marta, recollir la motxilla de l’àrea 2, a dalt del marc metàl·lic?	take_object	player:Marta	location_x:2	location_y:b	object:motxilla
+Per garantir la seguretat, diposita la clau mestra a l’àrea 3, Joan, just a l’esquerra del taulell.	place_object	player:Joan	location_x:3	location_y:c	object:clau mestra
+Quan acabi la inspecció, podràs, Irene, agafar la targeta de l’àrea 6, a sota del lector?	take_object	player:Irene	location_x:6	location_y:d	object:targeta
+Abans de la sessió, Carla, col·loca el projector a l’àrea 7, a la dreta del panell central.	place_object	player:Carla	location_x:7	location_y:a	object:projector
+Un cop hagis cursat la sol·licitud, podries, Pol, recollir la rèplica de l’àrea 5, a dalt del pedestal?	take_object	player:Pol	location_x:5	location_y:b	object:rèplica
+Per mantenir l’ordre, diposita el dron a l’àrea 1, Nil, just a l’esquerra del monitor principal.	place_object	player:Nil	location_x:1	location_y:c	object:dron
+Ara mateix, Sandra, pots recollir el passaport de l’àrea 8, a sota del taulell?	take_object	player:Sandra	location_x:8	location_y:d	object:passaport
+En acabar la jornada, Albert, col·loca el llibre de registre a l’àrea 2, a la dreta de la prestatgeria.	place_object	player:Albert	location_x:2	location_y:a	object:llibre de registre
+Després de signar, podries, Berta, agafar el document oficial de l’àrea 4, a dalt del tauler?	take_object	player:Berta	location_x:4	location_y:b	object:document oficial
+A fi de garantir visibilitat, diposita la maqueta naval a l’àrea 6, Estel, a l’esquerra de la tarima.	place_object	player:Estel	location_x:6	location_y:c	object:maqueta naval
+Quan rebis l’avís, Jordi, pots recollir les roses de l’àrea 5, a sota de la vidriera?	take_object	player:Jordi	location_x:5	location_y:d	object:roses
+Per tancar el procediment, Gemma, col·loca el mapa urbà a l’àrea 1, a la dreta de l’estàtua.	place_object	player:Gemma	location_x:1	location_y:a	object:mapa urbà
+Abans de finalitzar, podries, Félix, agafar la càmera antiga de l’àrea 3, a dalt del banc?	take_object	player:Félix	location_x:3	location_y:b	object:càmera antiga
+Quan tot estigui preparat, diposita la peça de ceràmica a l’àrea 2, Núria, a l’esquerra de l’entrada.	place_object	player:Núria	location_x:2	location_y:c	object:peça de ceràmica
+Sandra, recull el conjunt fotogràfic de l’àrea 7, a sota de la làmpada central?	take_object	player:Sandra	location_x:7	location_y:d	object:conjunt fotogràfic
+Abans de procedir amb l’anàlisi, podries, Míriam, col·locar el dossier a l’àrea 3, just a la dreta de la taula d’informes?	place_object	player:Míriam	location_x:3	location_y:a	object:dossier
+Per garantir la coherència dels informes, Agnès, recull el plànol que descansa a l’àrea 2, just a dalt del prestatge central.	take_object	player:Agnès	location_x:2	location_y:b	object:plànol
+Després d’haver revisat el manual de procediments, seria possible que en Joan dipositès el manual de procediments a l’àrea 4, a l’esquerra de la porta de seguretat?	place_object	player:Joan	location_x:4	location_y:c	object:manual de procediments
+Quan hagis completat la sessió, en Pau, no oblidis recollir la càmera de l’àrea 1, sota la làmpada principal?	take_object	player:Pau	location_x:1	location_y:d	object:càmera
+Amb la presentació ja llesta, podries, Claudia, situar les postals a l’àrea 5, a la dreta del taulell d’atenció?	place_object	player:Claudia	location_x:5	location_y:a	object:postals
+En haver completat l’últim punt, podràs, Àlex, recollir la targeta que és a l’àrea 6, a dalt del lector d’accés?	take_object	player:Àlex	location_x:6	location_y:b	object:targeta
+Just abans de marxar, convé que la Núria col·loqui la rèplica de l’estatueta a l’àrea 7, a l’esquerra del podi principal.	place_object	player:Núria	location_x:7	location_y:c	object:rèplica de l’estatueta
+En acabar el muntatge, seria convenient, Ferran, agafar la motxilla que descansa a l’àrea 3, sota la taula verda?	take_object	player:Ferran	location_x:3	location_y:d	object:motxilla
+Per finalitzar l’edició, Judit, podries dipositar la bicicleta a l’àrea 8, a la dreta del senyal d’avís?	place_object	player:Judit	location_x:8	location_y:a	object:bicicleta
+Quan rebis la confirmació, recull, Oriol, el passaport de l’àrea 2, just a dalt del mostrador principal?	take_object	player:Oriol	location_x:2	location_y:b	object:passaport
+Amb els informes ja preparats, Carme, col·loca la maqueta naval a l’àrea 4, a l’esquerra de la plataforma de treball.	place_object	player:Carme	location_x:4	location_y:c	object:maqueta naval
+Després de tancar la reunió, podràs, Marc, agafar el dossier que es troba a l’àrea 1, sota la pantalla tàctil?	take_object	player:Marc	location_x:1	location_y:d	object:dossier
+Per tal d’ordenar els documents, Berta, situa el plànol urbà a l’àrea 5, a la dreta del prestatge metàl·lic.	place_object	player:Berta	location_x:5	location_y:a	object:plànol urbà
+Quan tinguis lliurada la memòria, Sergi, recull el llibre de registre que hi ha a l’àrea 6, a dalt de la vitrina.	take_object	player:Sergi	location_x:6	location_y:b	object:llibre de registre
+Abans de la inauguració, Anna, seria oportú dipositar el projector a l’àrea 3, a l’esquerra de la pantalla principal?	place_object	player:Anna	location_x:3	location_y:c	object:projector
+Des del teu escriptori, Pol, no t’oblidis de recollir la targeta d’accés que descansa a l’àrea 2, sota del lector biomètric?	take_object	player:Pol	location_x:2	location_y:d	object:targeta d’accés
+Amb tot enllestit, Janet, situaràs el quadre a l’àrea 7, a la dreta del pilar central?	place_object	player:Janet	location_x:7	location_y:a	object:quadre
+Al moment de l’informe, Jordi, recull la rèplica de l’estatueta de l’àrea 8, a dalt de la tarima d’exposició?	take_object	player:Jordi	location_x:8	location_y:b	object:rèplica de l’estatueta
+Per agilitzar el procés, Clara, col·loca la bicicleta a l’àrea 6, a l’esquerra de l’atri d’entrada.	place_object	player:Clara	location_x:6	location_y:c	object:bicicleta
+En acabar l’auditoria, Ernest, recull la càmera antiga que et trobaràs a l’àrea 1, sota del vitrall lateral?	take_object	player:Ernest	location_x:1	location_y:d	object:càmera antiga
+Abans de tancar el museu, podries, Laura, col·locar el dossier en el sector 3, just a la dreta de l’entrada principal?	place_object	player:Laura	location_x:3	location_y:a	object:dossier
+Un cop hagis signat el contracte, Marc, recull el passaport en el punt 1, a dalt del taulell informatiu?	take_object	player:Marc	location_x:1	location_y:b	object:passaport
+Seria possible que Carme deixés la maleta en l’espai 2, a l’esquerra de l’estanteria blava?	place_object	player:Carme	location_x:2	location_y:c	object:maleta
+Joan, abans de marxar, pots agafar la càmera en el sector 4, just a sota del fanal central?	take_object	player:Joan	location_x:4	location_y:d	object:càmera
+En finalitzar la reunió, podríeu, Sílvia, dipositar el manual en la secció 5, a la dreta de la lona informativa?	place_object	player:Sílvia	location_x:5	location_y:a	object:manual
+Irene, abans de la sessió, recull la targeta en el punt 3, a dalt de la prestatgeria metàl·lica?	take_object	player:Irene	location_x:3	location_y:b	object:targeta
+Quan arribis al recinte, podries, Omar, col·locar el projector en l’espai 6, a la dreta de la finestra lateral?	place_object	player:Omar	location_x:6	location_y:a	object:projector
+Berta, no oblidis agafar la rèplica en el sector 7, just a sota de la vitrina principal?	take_object	player:Berta	location_x:7	location_y:d	object:rèplica
+Clara, al final del torn, diposita la maqueta en la secció 8, a l’esquerra del taulell de fusta.	place_object	player:Clara	location_x:8	location_y:c	object:maqueta
+Nil, un cop hagis revisat els arxius, pots recollir la carpeta en el punt 2, a sota del tauler informatiu?	take_object	player:Nil	location_x:2	location_y:d	object:carpeta
+Després de la prova, podries, Gemma, col·locar el quadre al sector 9, a la dreta de la columna central?	place_object	player:Gemma	location_x:9	location_y:a	object:quadre
+Ferran, quan rebi la trucada, recull la motxilla en l’espai 1, a dalt del banc de pedra?	take_object	player:Ferran	location_x:1	location_y:b	object:motxilla
+Abans de tancar el taller, Carles, diposita la bicicleta en la secció 4, a la dreta del suport metàl·lic.	place_object	player:Carles	location_x:4	location_y:a	object:bicicleta
+Sandra, després d’imprimir el plànol, pots recollir-lo en el recinte 5, just a sota de la làmpada central?	take_object	player:Sandra	location_x:5	location_y:d	object:plànol
+Quan hagis completat l’assaig, Marta, podries col·locar el llibre de registre en l’espai 3, a la dreta del podi principal?	place_object	player:Marta	location_x:3	location_y:a	object:llibre de registre
+Pau, recull la caixa d’eines en el sector 2, a sota de la taula de treball?	take_object	player:Pau	location_x:2	location_y:d	object:caixa d’eines
+En acabar la inspecció, podríeu, Àlex, dipositar el casque en la secció 1, a l’esquerra de l’entrada principal?	place_object	player:Àlex	location_x:1	location_y:c	object:casque
+Lluc, abans de la inauguració, agafa el tríptic en el punt 6, a dalt del panell informatiu?	take_object	player:Lluc	location_x:6	location_y:b	object:tríptic
+Mireia, quan tothom marxi, pots col·locar la clau mestra en el recinte 7, a la dreta del pany principal?	place_object	player:Mireia	location_x:7	location_y:a	object:clau mestra
+Arnau, un cop hagis signat els plans, recull el plànol urbà en l’espai 8, a sota del plafó informatiu?	take_object	player:Arnau	location_x:8	location_y:d	object:plànol urbà
+Abans de tancar la porta, podries, Carme, dipositar el dossier al pis 3, a la dreta del taulell principal?	place_object	player:Carme	location_x:3	location_y:a	object:dossier
+Després de revisar els plànols, seria possible, Pau, recollir el plànol al pis 2, a dalt del prestatge central?	take_object	player:Pau	location_x:2	location_y:b	object:plànol
+En acabar la visita, podries, Marta, col·locar la maqueta al pis 5, a l’esquerra de la vitrina de fusta?	place_object	player:Marta	location_x:5	location_y:c	object:maqueta
+Abans de marxar, Roger, pots recollir la motxilla al pis 1, a sota de la taula rodona?	take_object	player:Roger	location_x:1	location_y:d	object:motxilla
+Abans de la conferència, podries, Joan, ubicar el projector al pis 4, a la dreta de la pantalla intel·ligent?	place_object	player:Joan	location_x:4	location_y:a	object:projector
+Quan hagis completat la sessió, podries, Núria, agafar la càmera al pis 6, a dalt del taulell central?	take_object	player:Núria	location_x:6	location_y:b	object:càmera
+Per a mantenir l’ordre, seria convenient, Marc, col·locar els llibres al pis 2, a l’esquerra de l’estanteria metàl·lica?	place_object	player:Marc	location_x:2	location_y:c	object:llibres
+Abans de començar, Carla, pots recollir la targeta al pis 7, a sota del lector d’accés?	take_object	player:Carla	location_x:7	location_y:d	object:targeta
+Abans que arribi el personal, podries, Eva, dipositar els informes al pis 3, a la dreta del portal principal?	place_object	player:Eva	location_x:3	location_y:a	object:informes
+Sergi, en acabar l’actualització, recull el manual al pis 5, a dalt del prestatge inferior?	take_object	player:Sergi	location_x:5	location_y:b	object:manual
+Laia, abans de finalitzar, seria possible que col·loquessis la bicicleta al pis 8, a l’esquerra de l’entrada de servei?	place_object	player:Laia	location_x:8	location_y:c	object:bicicleta
+Arnau, just abans de la tancada, pots recollir el passaport al pis 1, a sota de la màquina d’etiquetes?	take_object	player:Arnau	location_x:1	location_y:d	object:passaport
+Per tal de completar l’inventari, podries, Gemma, dipositar els formularis al pis 4, a la dreta del taulell secundari?	place_object	player:Gemma	location_x:4	location_y:a	object:formularis
+Pol, un cop revisat el sistema, recull les claus al pis 2, a dalt de la taula auxiliar?	take_object	player:Pol	location_x:2	location_y:b	object:claus
+Sílvia, abans de tancar el magatzem, pots col·locar la caixa de música al pis 6, a l’esquerra de l’estanteria central?	place_object	player:Sílvia	location_x:6	location_y:c	object:caixa de música
+Estel, quan rebis l’avís, recull la mostra al pis 7, a sota de la vitrina principal?	take_object	player:Estel	location_x:7	location_y:d	object:mostra
+Ferran, tal com vam acordar, podries dipositar el tríptic al pis 3, a la dreta del taulell d’informació?	place_object	player:Ferran	location_x:3	location_y:a	object:tríptic
+Clara, abans de la presentació, pots recollir el plànol al pis 5, a dalt del suport metàl·lic?	take_object	player:Clara	location_x:5	location_y:b	object:plànol
+Roger, en acabar la jornada, seria possible que col·loquessis la rèplica al pis 9, a l’esquerra de l’escultura central?	place_object	player:Roger	location_x:9	location_y:c	object:rèplica
+Mireia, abans de sortir del recinte, recull el dossier al pis 2, a sota del panell il·luminat?	take_object	player:Mireia	location_x:2	location_y:d	object:dossier
+Carme, abans de marxar, diposita els informes al pis 3, a la dreta del taulell d’atenció.	place_object	player:Carme	location_x:3	location_y:a	object:informes
+Pau, pots recollir la carpeta de l’espai 1, a dalt del prestatge principal?	take_object	player:Pau	location_x:1	location_y:b	object:carpeta
+Elena, col·loca el cas al nivell 5, a l’esquerra de la porta lateral.	place_object	player:Elena	location_x:5	location_y:c	object:cas
+Ferran, recull el fullet de la secció 2, a baix del taulell?	take_object	player:Ferran	location_x:2	location_y:d	object:fullet
+Georgina, diposita el plànol al sector 4, a la dreta de la finestra principal.	place_object	player:Georgina	location_x:4	location_y:a	object:plànol
+Hugo, pots prendre la clau de la planta 1, a dalt del suport de metacrilat?	take_object	player:Hugo	location_x:1	location_y:b	object:clau
+Irene, col·loca el manual a la planta 6, a l’esquerra de l’estanteria metàl·lica.	place_object	player:Irene	location_x:6	location_y:c	object:manual
+Joan, recull la càmera del pis 3, a sota del monitor central?	take_object	player:Joan	location_x:3	location_y:d	object:càmera
+Laia, ubica la rèplica al nivell 2, a la dreta del pedestal principal.	place_object	player:Laia	location_x:2	location_y:a	object:rèplica
+Marc, pots agafar la maleta de l’àrea 5, a dalt de la taula auxiliar?	take_object	player:Marc	location_x:5	location_y:b	object:maleta
+Núria, col·loca la maqueta al sector 7, a l’esquerra de l’estand principal.	place_object	player:Núria	location_x:7	location_y:c	object:maqueta
+Oriol, recull la targeta de la planta 4, a baix del lector biomètric?	take_object	player:Oriol	location_x:4	location_y:d	object:targeta
+Pau, diposita el dossier al pis 8, a la dreta del marc audiovisual.	place_object	player:Pau	location_x:8	location_y:a	object:dossier
+Quim, pots recollir el plànol de l’espai 6, a dalt del taulell informatiu?	take_object	player:Quim	location_x:6	location_y:b	object:plànol
+Roger, col·loca el projector al nivell 1, a l’esquerra de la pantalla gran.	place_object	player:Roger	location_x:1	location_y:c	object:projector
+Sandra, recull el fulletó de la secció 3, a baix del suport metàl·lic?	take_object	player:Sandra	location_x:3	location_y:d	object:fulletó
+Teresa, diposita el tríptic al sector 9, a la dreta de la porta principal.	place_object	player:Teresa	location_x:9	location_y:a	object:tríptic
+Vicenç, pots prendre la càmera antiga de l’àrea 2, a dalt de la taula rodona?	take_object	player:Vicenç	location_x:2	location_y:b	object:càmera antiga
+Xènia, col·loca la placa al pis 4, a l’esquerra de l’escultura principal.	place_object	player:Xènia	location_x:4	location_y:c	object:placa
+Yago, recull la carta del nivell 5, a baix de l’estanteria gran?	take_object	player:Yago	location_x:5	location_y:d	object:carta
+Abans d’iniciar la revisió final, podries dipositar el manual, Marc, al pis 2, a dalt del prestatge metàl·lic?	take_object	player:Marc	location_x:2	location_y:b	object:manual
+Per registrar-ho correctament, cal que, Sara, col·loquis la carpeta al nivell 4, a la dreta del taulell principal.	place_object	player:Sara	location_x:4	location_y:a	object:carpeta
+Un cop hagis signat els acords, podràs, Jordi, recollir el passaport al sector 1, a sota de la làmpada?	take_object	player:Jordi	location_x:1	location_y:d	object:passaport
+Després d’inspeccionar la sala, seria oportú que, Marta, dipositessis el plànol a l’espai 5, a l’esquerra de la vitrina de vidre.	place_object	player:Marta	location_x:5	location_y:c	object:plànol
+Abans de la reunió, podries, Xavi, agafar la càmera al pis 3, a la dreta de la porta lateral?	take_object	player:Xavi	location_x:3	location_y:a	object:càmera
+Per tal de garantir seguretat, cal que, Anna, col·loquis la clau mestra al nivell 6, a dalt del mostrador informatiu.	place_object	player:Anna	location_x:6	location_y:b	object:clau mestra
+Un cop finalitzada la sessió, podràs, Oriol, recollir la motxilla al sector 2, a sota de la taula auxiliar?	take_object	player:Oriol	location_x:2	location_y:d	object:motxilla
+En completar l’inventari, hauries de dipositar la rèplica, Carme, al pis 7, a l’esquerra de l’estand central.	place_object	player:Carme	location_x:7	location_y:c	object:rèplica
+Abans de tancar el torn, podries, Pau, recollir el tríptic al nivell 8, a dalt del prestatge inferior?	take_object	player:Pau	location_x:8	location_y:b	object:tríptic
+Per facilitar la consulta, cal que, Elena, col·loquis el plànol urbà a l’espai 3, a la dreta del panell metàl·lic.	place_object	player:Elena	location_x:3	location_y:a	object:plànol urbà
+Un cop acabis l’exposició, podràs, Pol, recollir el manual tècnic a la secció 5, a sota del pilar central?	take_object	player:Pol	location_x:5	location_y:d	object:manual tècnic
+Després de preparar-ho tot, seria convenient que, Núria, dipositis la maqueta al pis 4, a l’esquerra de la tarima principal.	place_object	player:Núria	location_x:4	location_y:c	object:maqueta
+Abans de la inauguració, podries, Roger, agafar el projector al sector 6, a dalt del marc audiovisual?	take_object	player:Roger	location_x:6	location_y:b	object:projector
+Per agilitzar el procés, cal que, Carla, col·loquis la bicicleta al nivell 1, a la dreta de l’entrada principal.	place_object	player:Carla	location_x:1	location_y:a	object:bicicleta
+Quan estigui tot preparat, podràs, Berta, recollir la targeta d’accés al pis 2, a sota del lector?	take_object	player:Berta	location_x:2	location_y:d	object:targeta d’accés
+Després de la presentació, seria oportú que, Hugo, dipositis els documents al pis 9, a l’esquerra del taulell principal.	place_object	player:Hugo	location_x:9	location_y:c	object:documents
+Abans de tancar l’esdeveniment, podries, Yago, agafar la clau de pas al nivell 7, a dalt de l’expositor?	take_object	player:Yago	location_x:7	location_y:b	object:clau de pas
+Per completar la comanda, cal que, Damià, col·loquis la caixa al sector 3, a la dreta de la plataforma.	place_object	player:Damià	location_x:3	location_y:a	object:caixa
+Quan finalitzis la visita, podràs, Estel, recollir la figura de fusta a l’espai 4, a sota de la vitrina?	take_object	player:Estel	location_x:4	location_y:d	object:figura de fusta
+Després de la verificació, seria necessari que, Ivan, dipositis el dispositiu al pis 2, a l’esquerra de la pantalla tàctil.	place_object	player:Ivan	location_x:2	location_y:c	object:dispositiu
+Alba, podries dipositar la maleta al pis 2, a dalt de la taula blava?	place_object	player:Alba	location_x:2	location_y:b	object:maleta
+Biel, recolliràs el passaport al pis 1, a la dreta del taulell blanc?	take_object	player:Biel	location_x:1	location_y:a	object:passaport
+Carla, podries deixar el llibre al pis 3, a l’esquerra de la prestatgeria metàl·lica?	place_object	player:Carla	location_x:3	location_y:c	object:llibre
+Dani, pots agafar la càmera al pis 4, sota del projector?	take_object	player:Dani	location_x:4	location_y:d	object:càmera
+Elena, podries col·locar la targeta al pis 5, a dalt del lector d’accés?	place_object	player:Elena	location_x:5	location_y:b	object:targeta
+Ferran, recolliràs el manual al pis 2, a la dreta de l’estant?	take_object	player:Ferran	location_x:2	location_y:a	object:manual
+Gemma, podries dipositar el plànol al pis 6, a l’esquerra de la finestra panoràmica?	place_object	player:Gemma	location_x:6	location_y:c	object:plànol
+Hugo, pots agafar la motxilla al pis 3, a sota de la cadira verda?	take_object	player:Hugo	location_x:3	location_y:d	object:motxilla
+Irina, podries deixar el dossier al pis 4, a la dreta de la taula rodona?	place_object	player:Irina	location_x:4	location_y:a	object:dossier
+Jordi, recolliràs la carpeta al pis 1, a dalt del prestatge principal?	take_object	player:Jordi	location_x:1	location_y:b	object:carpeta
+Laia, podries col·locar el projector al pis 5, sota del sostre lluminós?	place_object	player:Laia	location_x:5	location_y:d	object:projector
+Marc, pots agafar la rèplica al pis 7, a l’esquerra de l’escultor?	take_object	player:Marc	location_x:7	location_y:c	object:rèplica
+Núria, podries dipositar la bicicleta al pis 8, a la dreta del portal de servei?	place_object	player:Núria	location_x:8	location_y:a	object:bicicleta
+Oriol, recolliràs el passaport al pis 2, a dalt del taulell central?	take_object	player:Oriol	location_x:2	location_y:b	object:passaport
+Paula, podries deixar el bolígraf al pis 3, a l’esquerra del taulell secundari?	place_object	player:Paula	location_x:3	location_y:c	object:bolígraf
+Quim, pots recollir la documentació al pis 6, sota de la vitrina?	take_object	player:Quim	location_x:6	location_y:d	object:documentació
+Rosa, podries dipositar el mapa urbà al pis 4, a dalt de la porta lateral?	place_object	player:Rosa	location_x:4	location_y:b	object:mapa urbà
+Sergi, recolliràs el llibre antic al pis 5, a la dreta de la finestra gran?	take_object	player:Sergi	location_x:5	location_y:a	object:llibre antic
+Teresa, podries col·locar la càmera antiga al pis 7, a l’esquerra de la finestra petita?	place_object	player:Teresa	location_x:7	location_y:c	object:càmera antiga
+Unai, pots agafar la figura de fusta al pis 1, sota del tapís decoratiu?	take_object	player:Unai	location_x:1	location_y:d	object:figura de fusta
+Per assegurar el desenrotllament correcte, podries, Maria, col·locar el plànol al pis 2, a la dreta de la porta principal?	place_object	player:Maria	location_x:2	location_y:a	object:plànol
+En acabar la inspecció, podràs, Joan, recollir la motxilla al nivell 5, a dalt del prestatge gran?	take_object	player:Joan	location_x:5	location_y:b	object:motxilla
+Abans d’atendre els visitants, podries, Àlex, deixar el dossier al sector 4, a l’esquerra del taulell?	place_object	player:Àlex	location_x:4	location_y:c	object:dossier
+Quan rebis el senyal, podràs, Clara, recollir el passaport al pis 1, a sota del mostrador blanc?	take_object	player:Clara	location_x:1	location_y:d	object:passaport
+Per tancar el bucle, podries, Marc, situar la càmera a l’espai 3, a la dreta de la finestra?	place_object	player:Marc	location_x:3	location_y:a	object:càmera
+Després de signar els documents, podràs, Marta, agafar el bolígraf al pis 6, a dalt de la taula auxiliar?	take_object	player:Marta	location_x:6	location_y:b	object:bolígraf
+Abans de la inauguració, podries, Pol, col·locar el projector al nivell 7, a l’esquerra del panell intel·ligent?	place_object	player:Pol	location_x:7	location_y:c	object:projector
+Quan hagis acabat la preparació, podràs, Laura, recollir el manual tècnic al tram 2, a sota de la vitrina?	take_object	player:Laura	location_x:2	location_y:d	object:manual tècnic
+Per garantir l’accessibilitat, podries, Pere, dipositar la rèplica al pis 8, a la dreta del podi principal?	place_object	player:Pere	location_x:8	location_y:a	object:rèplica
+Encara que hi hagi pressa, pots, Núria, recollir la targeta al pis 4, a dalt del lector biomètric?	take_object	player:Núria	location_x:4	location_y:b	object:targeta
+Abans que marxi el tren, podries, Sergi, deixar el plànol urbà al pis 3, a l’esquerra de la plataforma?	place_object	player:Sergi	location_x:3	location_y:c	object:plànol urbà
+Després del tast de vins, pots, Gemma, agafar la copa al pis 5, a sota del prestatge de vidre?	take_object	player:Gemma	location_x:5	location_y:d	object:copa
+Per tancar l’exposició, podries, Helena, col·locar la maqueta naval al nivell 1, a la dreta del taulell de fusta?	place_object	player:Helena	location_x:1	location_y:a	object:maqueta naval
+Quan s’hagi aturat el soroll, pots, Biel, recollir la cassola al sector 6, a dalt del suport metàl·lic?	take_object	player:Biel	location_x:6	location_y:b	object:cassola
+Abans de la demostració, podries, Carla, deixar la bicicleta al pis 7, a l’esquerra de l’estand principal?	place_object	player:Carla	location_x:7	location_y:c	object:bicicleta
+En repetir l’operació, pots, Ferran, recollir el dispositiu al sector 9, a sota de la pantalla tàctil?	take_object	player:Ferran	location_x:9	location_y:d	object:dispositiu
+Per millorar la visibilitat, podries, Irene, col·locar el tríptic al tram 2, a la dreta del cartell?	place_object	player:Irene	location_x:2	location_y:a	object:tríptic
+Un cop t’hagin confirmat, pots, Arnau, recollir la clau mestra al pis 9, a dalt de la taula central?	take_object	player:Arnau	location_x:9	location_y:b	object:clau mestra
+Per completar l’inventari, podries, Quim, col·locar el quadre al nivell 4, a l’esquerra de la porta principal?	place_object	player:Quim	location_x:4	location_y:c	object:quadre
+Quan arribi la comanda, pots, Laia, recollir el paquet al pis 2, a sota del taulell gris?	take_object	player:Laia	location_x:2	location_y:d	object:paquet
+Després de tancar el projecte, podries, Anna, col·locar els plànols al nivell 3, a la dreta de la porta principal?	place_object	player:Anna	location_x:3	location_y:a	object:plànols
+Abans de apagar el sistema, seria possible que Biel recollís el passaport al pis 1, a dalt del taulell informatiu?	take_object	player:Biel	location_x:1	location_y:b	object:passaport
+Quan revisis els resultats, Carla, diposita el dossier al sector 4, a l’esquerra de la taula rodona.	place_object	player:Carla	location_x:4	location_y:c	object:dossier
+Just abans de marxar, podries, Dani, agafar la motxilla al punt 2, sota la pantalla tàctil?	take_object	player:Dani	location_x:2	location_y:d	object:motxilla
+Per garantir l’accessibilitat, Míriam, sitúa el projector a l’espai 5, a la dreta del mur nord?	place_object	player:Míriam	location_x:5	location_y:a	object:projector
+En acabar la formació, podràs, Oriol, recollir la càmera al tram 6, a dalt de l’estanteria metàl·lica?	take_object	player:Oriol	location_x:6	location_y:b	object:càmera
+Abans de la cerimònia, podries, Pau, col·locar la maqueta naval al pis 7, a l’esquerra de l’escut central?	place_object	player:Pau	location_x:7	location_y:c	object:maqueta naval
+Quan arribi l’equip, Núria, agafa el manual al nivell 1, sota la làmpada principal?	take_object	player:Núria	location_x:1	location_y:d	object:manual
+Per a la presentació final, Marc, ubica les targetes de visita al sector 3, a la dreta del taulell metàl·lic.	place_object	player:Marc	location_x:3	location_y:a	object:targetes
+Després de signar els documents, podries, Rosa, recollir el plànol urbà al pis 2, a dalt del suport de fusta?	take_object	player:Rosa	location_x:2	location_y:b	object:plànol urbà
+Abans de llançar la campanya, Jordi, diposita l’anunci al punt 4, a l’esquerra del panell informatiu.	place_object	player:Jordi	location_x:4	location_y:c	object:anunci
+Si us plau, quan acabis, podràs, Sara, agafar la clau mestra al tram 8, sota de la biga metàl·lica?	take_object	player:Sara	location_x:8	location_y:d	object:clau mestra
+En tancar la sessió, Claudia, sitúa els llibres a l’espai 5, a la dreta de la vitrina de fusta?	place_object	player:Claudia	location_x:5	location_y:a	object:llibres
+Quan tinguis un moment, podries, Eva, recollir la càmera antiga al sector 9, a dalt del pedestal?	take_object	player:Eva	location_x:9	location_y:b	object:càmera antiga
+Per millorar la visibilitat, Martí, col·loca els fullets al nivell 6, a l’esquerra de la finestra panoràmica.	place_object	player:Martí	location_x:6	location_y:c	object:fullets
+Després de fer còpies, podràs, Núria, recollir la carpeta al pis 1, sota del coixí decoratiu?	take_object	player:Núria	location_x:1	location_y:d	object:carpeta
+Abans d’obrir la sala, Claudia, diposita la rèplica al punt 7, a la dreta de l’estand central?	place_object	player:Claudia	location_x:7	location_y:a	object:rèplica
+Quan finalitzis la inspecció, podràs, Ferran, agafar el bolígraf al sector 2, a dalt del taulell secundari?	take_object	player:Ferran	location_x:2	location_y:b	object:bolígraf
+Per organitzar-ho tot, Mireia, col·loca el tríptic al pis 3, a l’esquerra del portal principal.	place_object	player:Mireia	location_x:3	location_y:c	object:tríptic
+Abans de marxar, podries, Pau, recollir la documentació al nivell 4, a sota del plafó d’instruccions?	take_object	player:Pau	location_x:4	location_y:d	object:documentació
+
+

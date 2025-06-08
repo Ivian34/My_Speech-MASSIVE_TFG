@@ -1,0 +1,51 @@
+adafactor: false
+adam_beta1: 0.8
+adam_beta2: 0.999
+adam_epsilon: 1.0e-09
+add_separator: '|'
+add_slu_tag: true
+data_seed: 32
+dataset_name: FBK-MT/Speech-MASSIVE
+dataset_config_name: es-ES
+do_eval: false
+do_predict: false
+do_train: true
+eval_dataset_name: FBK-MT/Speech-MASSIVE
+eval_dataset_config_name: pt-PT
+eval_split_name: validation
+eval_steps: 3
+eval_strategy: steps
+fp16: false
+is_few_shot: false
+gradient_accumulation_steps: 2
+greater_is_better: false
+group_by_length: false
+label_smoothing_factor: 0.0
+learning_rate: 6.0e-03
+length_column_name: length
+load_best_model_at_end: false # set to true if you want to load the best model at the end of training
+logging_dir: /home/ivan/Documentos/Speech-MASSIVE/log  # change the directory accordingly
+logging_steps: 10
+logging_strategy: steps
+lr_scheduler_type: linear
+max_grad_norm: 1.0
+max_steps: 2000
+metric_for_best_model: eval_loss
+model_name_or_path: openai/whisper-base #projecte-aina/whisper-large-v3-tiny-caesar 
+freeze_encoder: true # set to true if you want to freeze the encoder to keep the original weights in the audio encoder
+overwrite_output_dir: true # should be set False if you wish to continue training from last checkpoint
+output_dir: /home/ivan/Documentos/Speech-MASSIVE/model # change the directory accordingly
+per_device_eval_batch_size: 8
+per_device_train_batch_size: 8
+predict_with_generate: true
+remove_unused_columns: true
+save_steps: 100
+save_strategy: steps
+save_total_limit: 10
+seed: 32
+target_format_content: transcript_slots_intent
+task: transcribe
+train_split_name: train_115 # change the split name accordingly to the dataset_config_name
+warmup_ratio: 0.0
+warmup_steps: 100
+weight_decay: 0.0

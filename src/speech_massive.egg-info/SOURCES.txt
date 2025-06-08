@@ -1,0 +1,13 @@
+LICENSE
+NOTICE.md
+README.md
+pyproject.toml
+src/speech_massive.egg-info/PKG-INFO
+src/speech_massive.egg-info/SOURCES.txt
+src/speech_massive.egg-info/dependency_links.txt
+src/speech_massive.egg-info/requires.txt
+src/speech_massive.egg-info/top_level.txt
+src/speech_massive/examples/scripts/massive_eval.py
+src/speech_massive/examples/scripts/s3prl_slot_eval.py
+src/speech_massive/examples/speech/run_slu_whisper.py
+src/speech_massive/examples/speech/trainer_seq2seq_whisper_slu.py
